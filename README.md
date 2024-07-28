@@ -1,0 +1,1 @@
+This repository consists of code snippets that I have read from Hands on Machine Learning using Scikit-learn and Tensorflow (3rd Edition). I might have tinkered with some of the original code so please keep that in mind when using or referring to these snippets.
